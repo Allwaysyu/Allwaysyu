@@ -1,4 +1,4 @@
-global.owner : "6283892193891"
+8global.owner : "6283892193891"
 global.ownerStore : "ALLOFFC"
 global.ownerAuthor : "Allwaysyu"
 global.apikendo : "-"
